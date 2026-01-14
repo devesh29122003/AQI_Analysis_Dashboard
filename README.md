@@ -1,5 +1,5 @@
 # AQI_Analysis_Dashboard
-nd-to-end Power BI AQI dashboard analyzing air quality trends, pollutant impact, and KPIs with interactive filters for state, year, and area, showcasing data cleaning, DAX, and professional data visualization skills.
+End-to-end Power BI AQI dashboard analyzing air quality trends, pollutant impact, and KPIs with interactive filters for state, year, and area, showcasing data cleaning, DAX, and professional data visualization skills.
 
 Developed an end-to-end AQI Dashboard using Power BI to analyze air quality trends and identify key pollutants impacting environmental health. The project focuses on transforming raw AQI data into meaningful insights through data modeling, DAX, and interactive visualizations.
 
